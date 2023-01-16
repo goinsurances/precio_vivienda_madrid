@@ -1,6 +1,5 @@
 # Precio de la vivienda en Madrid 
 Precio de la vivienda en la ciudad de Madrid, con información del mes de octubre de 2022, los datos han sido obtenidos de:
-
 https://www.kaggle.com/datasets/kevsde/madrid-house-price
 
 ## Autor
@@ -12,7 +11,7 @@ https://www.kaggle.com/datasets/kevsde/madrid-house-price
 </p>
 
 <h3 align="left">Si tienes dudas puedes escribirme a:</h3>
-
+<p align="left">
 **antonio.justicia@go-insurances.com**
 
 <h3 align="left">Si deseas contratar mis servicios</h3>
